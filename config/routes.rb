@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  get 'page/home'
+  get 'page/about'
+  get 'page/contact'
   resources :portfolios
   resources :blogs
   get '/home/index'
