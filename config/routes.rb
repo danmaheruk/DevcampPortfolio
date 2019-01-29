@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 	root 'page#home'
 
   get '/home', to: 'page#home'
-  get '/about', to: 'page#about'
+  get '/about-me', to: 'page#about'
   get '/contact', to: 'page#contact'
   resources :portfolios
   resources :blogs
