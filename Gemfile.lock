@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/danmaheruk/copyrightgem
+  revision: 377fb0fd25fa8d4859ff198f72e09e68408257c5
+  specs:
+    devcamp_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -198,6 +204,7 @@ DEPENDENCIES
   bootstrap
   byebug
   coffee-rails (~> 4.2)
+  devcamp_view_tool!
   devise
   friendly_id (~> 5.2.4)
   jbuilder (~> 2.5)

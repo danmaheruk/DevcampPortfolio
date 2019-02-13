@@ -59,3 +59,4 @@ gem 'devise'
 gem 'bcrypt'
 gem 'warden'
 gem 'bootstrap'
+gem 'devcamp_view_tool', git: "https://github.com/danmaheruk/copyrightgem"
